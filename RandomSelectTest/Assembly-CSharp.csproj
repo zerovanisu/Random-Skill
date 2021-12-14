@@ -49,6 +49,7 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\UseCase\TimeControl.cs" />
      <Compile Include="Assets\Scripts\UseCase\CylinderUseCase.cs" />
+     <Compile Include="Assets\time.cs" />
      <Compile Include="Assets\Scripts\UseCase\ball.cs" />
      <Compile Include="Assets\Scripts\UseCase\SampleSceneManager.cs" />
  <Reference Include="UnityEngine">
@@ -274,7 +275,7 @@
  <HintPath>/Users/minhtetnaing/Desktop/c++/2020.3.12f1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.UnityConnectModule.dll</HintPath>
  </Reference>
  <Reference Include="Newtonsoft.Json">
- <HintPath>/Users/minhtetnaing/Documents/GitHub/pullplat/Random-Skill/RandomSelectTest/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Newtonsoft.Json.dll</HintPath>
+ <HintPath>/Users/minhtetnaing/Downloads/random-main/RandomSelectTest/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Newtonsoft.Json.dll</HintPath>
  </Reference>
  <Reference Include="netstandard">
  <HintPath>/Users/minhtetnaing/Desktop/c++/2020.3.12f1/Unity.app/Contents/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
@@ -622,34 +623,34 @@
  <HintPath>/Users/minhtetnaing/Desktop/c++/2020.3.12f1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netfx/mscorlib.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VSCode.Editor">
- <HintPath>/Users/minhtetnaing/Documents/GitHub/pullplat/Random-Skill/RandomSelectTest/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+ <HintPath>/Users/minhtetnaing/Downloads/random-main/RandomSelectTest/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>/Users/minhtetnaing/Documents/GitHub/pullplat/Random-Skill/RandomSelectTest/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>/Users/minhtetnaing/Downloads/random-main/RandomSelectTest/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VisualStudio.Editor">
- <HintPath>/Users/minhtetnaing/Documents/GitHub/pullplat/Random-Skill/RandomSelectTest/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
+ <HintPath>/Users/minhtetnaing/Downloads/random-main/RandomSelectTest/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline.Editor">
- <HintPath>/Users/minhtetnaing/Documents/GitHub/pullplat/Random-Skill/RandomSelectTest/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ <HintPath>/Users/minhtetnaing/Downloads/random-main/RandomSelectTest/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline">
- <HintPath>/Users/minhtetnaing/Documents/GitHub/pullplat/Random-Skill/RandomSelectTest/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ <HintPath>/Users/minhtetnaing/Downloads/random-main/RandomSelectTest/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>/Users/minhtetnaing/Documents/GitHub/pullplat/Random-Skill/RandomSelectTest/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>/Users/minhtetnaing/Downloads/random-main/RandomSelectTest/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>/Users/minhtetnaing/Documents/GitHub/pullplat/Random-Skill/RandomSelectTest/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>/Users/minhtetnaing/Downloads/random-main/RandomSelectTest/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PlasticSCM.Editor">
- <HintPath>/Users/minhtetnaing/Documents/GitHub/pullplat/Random-Skill/RandomSelectTest/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
+ <HintPath>/Users/minhtetnaing/Downloads/random-main/RandomSelectTest/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Rider.Editor">
- <HintPath>/Users/minhtetnaing/Documents/GitHub/pullplat/Random-Skill/RandomSelectTest/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ <HintPath>/Users/minhtetnaing/Downloads/random-main/RandomSelectTest/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>/Users/minhtetnaing/Documents/GitHub/pullplat/Random-Skill/RandomSelectTest/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>/Users/minhtetnaing/Downloads/random-main/RandomSelectTest/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>

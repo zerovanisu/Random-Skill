@@ -14,6 +14,7 @@ public class ball : MonoBehaviour
     [SerializeField] 
     private float BoostIncrease = 10.0f;  //boost Speed
     
+
     void Update()
     {
         horizontalInput = Input.GetAxis("Horizontal");
@@ -53,7 +54,8 @@ public class ball : MonoBehaviour
 
             //この所あまり出来てない
             case"TimeSpeed":
-            gameObject.GetComponent<TimeControl>().fastForward = false;
+            Debug.Log("Hit");
+            TimeControl.moveTime();
             break;
         }
     }
